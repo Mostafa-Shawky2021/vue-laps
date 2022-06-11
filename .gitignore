@@ -1,0 +1,23 @@
+Day-0*/Task */.DS_Store
+Day-0*/Task */node_modules
+Day-0*/Task */dist
+
+
+# local env files
+Day-0*/Task */.env.local
+Day-0*/Task */.env.*.local
+
+# Log files
+Day-0*/Task */npm-debug.log*
+Day-0*/Task */yarn-debug.log*
+Day-0*/Task */yarn-error.log*
+Day-0*/Task */pnpm-debug.log*
+
+# Editor directories and files
+Day-0*/Task */.idea
+Day-0*/Task */.vscode
+Day-0*/Task */*.suo
+Day-0*/Task */*.ntvs*
+Day-0*/Task */*.njsproj
+Day-0*/Task */*.sln
+Day-0*/Task */*.sw?

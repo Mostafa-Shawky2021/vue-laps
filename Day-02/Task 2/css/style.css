@@ -1,0 +1,13 @@
+.link {
+    color: orange;
+    text-decoration: none;
+}
+
+.card {
+    margin-bottom: 5px;
+}
+
+#navbarSupportedContent > div{
+    color: #FFF;
+    margin: auto;
+}
